@@ -25,8 +25,8 @@ It has a wide range of applications and is best used collaboratively.
 
 ## 🔗 Links
 
-For licensing, [consult LinkedIn](https://www.linkedin.com/in/tomurbanned/)
+For more information, [consult LinkedIn](https://www.linkedin.com/in/tomurbanned/)
 
-For example works, [consult Artstation](https://www.artstation.com/tomurbanned)
+For example output, [consult Artstation](https://www.artstation.com/tomurbanned)
 
 Support is always available at tomasurbanav.cz@gmail.com
